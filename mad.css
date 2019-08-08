@@ -1,0 +1,11 @@
+h1{
+  color: black;
+  font-size: 65px;
+}
+
+body {
+  background: url("https://image.freepik.com/free-vector/red-watercolour-background_1048-879.jpg");
+  background-repeat:no-repeat;
+
+  background-size:cover;
+}
